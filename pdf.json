@@ -35,6 +35,12 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2020/10/english-nov-dec-2020.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2020/10/cover-english-nov-dec-2020.jpg",
       "sort": 5
+    },
+    {
+      "pdf_name": "English Jan-Feb 2021",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2020/12/english-jan-feb-2021.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2020/12/english-jan-feb-2021-cover.jpg",
+      "sort": 6
     }
   ],
   "hindi_pdf_array": [
@@ -109,6 +115,12 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2020/11/hindi-dec-2020.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2020/11/hindi-cover-dec-2020.jpg",
       "sort": 11
+    },
+    {
+      "pdf_name": "Hindi Jan 2021",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2020/12/english-jan-feb-2021.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2020/12/english-jan-feb-2021-cover.jpg",
+      "sort": 12
     }
   ],
   "gujarati_pdf_array": [
@@ -183,6 +195,12 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2020/11/gujrati-dec-2020.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2020/11/gujrati-cover-dec-2020.jpg",
       "sort": 11
+    },
+    {
+      "pdf_name": "Gujarati Jan 2021",
+      "pdf_url": " https://www.iass.info/wp-content/uploads/2020/12/gujrati-jan-2021.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2020/12/gujrati-jan-2021-cover.jpg",
+      "sort": 12
     }
   ]
 }
