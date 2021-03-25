@@ -104,12 +104,12 @@
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/02/hindi-march-2021.jpg",
       "sort": 10
     },
-     {
+    {
       "pdf_name": "Hindi - Apr - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/03/Hindi-April-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/03/Cover-Hindi-April-2021.jpg",
       "sort": 11
-    },
+    }
   ],
   "gujarati_pdf_array": [
     {
