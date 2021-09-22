@@ -39,149 +39,150 @@
   ],
   "hindi_pdf_array": [
     {
-      "pdf_name": "Hindi - Oct - 2020",
-      "pdf_url": "https://iass.info/wp-content/uploads/2020/10/hindi-oct-revised-page-no..pdf",
-      "pdf_thumb": "https://iass.info/wp-content/uploads/2020/10/october-cov1hindi-.jpg",
-      "sort": 0
-    },
-    {
       "pdf_name": "Hindi - Nov - 2020",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2020/10/hindi-nov-2020.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2020/10/cover-hindi-nov-2020.jpg",
-      "sort": 1
+      "sort": 0
     },
     {
       "pdf_name": "Hindi - Dec - 2020",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2020/11/hindi-dec-2020.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2020/11/hindi-cover-dec-2020.jpg",
-      "sort": 2
+      "sort": 1
     },
     {
       "pdf_name": "Hindi – Jan – 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2020/12/hindi-jan-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2020/12/hindi-jan-2021-cover.jpg",
-      "sort": 3
+      "sort": 2
     },
     {
       "pdf_name": "Hindi – Feb – 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/01/hindi-feb-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/01/hindi-feb-2021.jpg",
-      "sort": 4
+      "sort": 3
     },
     {
       "pdf_name": "Hindi - Mar - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/02/hindi-march-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/02/hindi-march-2021.jpg",
-      "sort": 5
+      "sort": 4
     },
     {
       "pdf_name": "Hindi - Apr - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/03/Hindi-April-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/03/Cover-Hindi-April-2021.jpg",
-      "sort": 6
+      "sort": 5
     },
     {
       "pdf_name": "Hindi - May - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/04/hindi-may2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/04/cover-hindi-may2021.jpg",
-      "sort": 7
+      "sort": 6
     },
     {
       "pdf_name": "Hindi - Jun - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/05/Hindi-June-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/05/Cover-Hindi-June-2021.jpg",
-      "sort": 8
+      "sort": 7
     },
     {
       "pdf_name": "Hindi - Jul - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/06/Hindi-July-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/06/Cover-Hindi-July-2021.jpg",
-      "sort": 9
+      "sort": 8
     },
     {
       "pdf_name": "Hindi - Aug - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/07/Hindi-August-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/07/Cover-Hindi-August-2021.jpg",
-      "sort": 10
+      "sort": 9
     },
     {
       "pdf_name": "Hindi - Sep - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/08/Hindi-September-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/08/COVER-Hindi-September-2021.jpg",
+      "sort": 10
+    },
+    {
+      "pdf_name": "Hindi - Oct - 2021",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2021/09/Hindi-October-2021.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/09/Cover-Hindi-October-2021.jpg",
       "sort": 11
     }
   ],
   "gujarati_pdf_array": [
-    {
-      "pdf_name": "Gujarati - Oct - 2020",
-      "pdf_url": "https://iass.info/wp-content/uploads/2020/10/gujarati-oct-revised-page.pdf",
-      "pdf_thumb": "https://iass.info/wp-content/uploads/2020/10/october-cov1-gujrati.jpg",
-      "sort": 0
-    },
-    {
+    
+   {
       "pdf_name": "Gujarati - Nov - 2020",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2020/10/gujrati-nov-2020.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2020/10/cover-gujrati-nov-2020.jpg",
-      "sort": 1
+      "sort": 0
     },
     {
       "pdf_name": "Gujarati - Dec - 2020",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2020/11/gujrati-dec-2020.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2020/11/gujrati-cover-dec-2020.jpg",
-      "sort": 2
+      "sort": 1
     },
     {
       "pdf_name": "Gujarati – Jan – 2021",
       "pdf_url": " https://www.iass.info/wp-content/uploads/2020/12/gujrati-jan-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2020/12/gujrati-jan-2021-cover.jpg",
-      "sort": 3
+      "sort": 2
     },
     {
       "pdf_name": "Gujarati – Feb – 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/01/gujrati-feb-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/01/gujrati-feb-2021.jpg",
-      "sort": 4
+      "sort": 3
     },
     {
       "pdf_name": "Gujarati - Mar - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/02/gujrati-march-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/02/gujrati-march-2021-scaled.jpg",
-      "sort": 5
+      "sort": 4
     },
     {
       "pdf_name": "Gujarati - Apr - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/03/Gujrati-April-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/03/cover-gujarati-April-2021.jpg",
-      "sort": 6
+      "sort": 5
     },
     {
       "pdf_name": "Gujarati - May - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/04/gujarati-may2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/04/cover-gujarati-may2021.jpg",
-      "sort": 7
+      "sort": 6
     },
     {
       "pdf_name": "Gujarati - Jun - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/05/Gujrati-June-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/05/Cover-Gujrati-June-2021.jpg",
-      "sort": 8
+      "sort": 7
     },
     {
       "pdf_name": "Gujarati - Jul - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/06/Gujarati-July-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/06/Cover-Gujarati-July-2021.jpg",
-      "sort": 9
+      "sort": 8
     },
     {
       "pdf_name": "Gujarati - Aug - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/07/Gujarati-August-2021-new.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/07/Cover-Gujarati-August-2021.jpg",
-      "sort": 10
+      "sort": 9
     },
     {
       "pdf_name": "Gujarati - Sep - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/08/Gujarati-September-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/08/COVER-Gujarati-September-2021.jpg",
+      "sort": 10
+    },
+    {
+      "pdf_name": "Gujarati - Oct - 2021",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2021/09/Gujarati-October-2021.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/09/Cover-Gujarati-October-2021.jpg",
       "sort": 11
     }
   ]
