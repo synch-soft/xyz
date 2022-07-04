@@ -1,12 +1,6 @@
 {
   "english_pdf_array": [
    {
-      "pdf_name": "English – Jul – Aug – 2021",
-      "pdf_url": "https://www.iass.info/wp-content/uploads/2021/06/English-July-August-2021.pdf ",
-      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/06/Cover-English-July-August-2021.jpg",
-      "sort": 1
-    },
-    {
       "pdf_name": "English – Sep – Oct – 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/08/English-September-October-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/08/Cover-English-September-October-2021.jpg",
@@ -35,6 +29,12 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/04/English-May-2022sh.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/04/Cover-English-May-2022sh.jpg",
       "sort": 6
+    },
+    {
+      "pdf_name": "English – Jul – Aug – 2022",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2022/07/English-July-August-2022.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/07/Cover-English-July-August-2022.jpg",
+      "sort": 7
     }
   ],
   "hindi_pdf_array": [
