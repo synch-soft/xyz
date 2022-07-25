@@ -39,12 +39,6 @@
   ],
   "hindi_pdf_array": [
     {
-      "pdf_name": "Hindi - Aug - 2021",
-      "pdf_url": "https://www.iass.info/wp-content/uploads/2021/07/Hindi-August-2021.pdf",
-      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/07/Cover-Hindi-August-2021.jpg",
-      "sort": 4
-    },
-    {
       "pdf_name": "Hindi - Sep - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/08/Hindi-September-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/08/COVER-Hindi-September-2021.jpg",
@@ -109,15 +103,15 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/06/Hindi-July-2022.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/06/Cove-Hindi-July-2022.jpg",
       "sort": 15
+    },
+    {
+      "pdf_name": "Hindi - Aug - 2022",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2022/07/Hindi-August-2022.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/07/Cover-Hindi-August-2022.jpg",
+      "sort": 16
     }
   ],
   "gujarati_pdf_array": [
-    {
-      "pdf_name": "Gujarati - Aug - 2021",
-      "pdf_url": "https://www.iass.info/wp-content/uploads/2021/07/Gujarati-August-2021-new.pdf",
-      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/07/Cover-Gujarati-August-2021.jpg",
-      "sort": 4
-    },
     {
       "pdf_name": "Gujarati - Sep - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/08/Gujarati-September-2021.pdf",
@@ -183,6 +177,12 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/06/Gujarati-july-2022.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/06/Cover-Gujarati-july-2022.jpg",
       "sort": 15
+    },
+    {
+      "pdf_name": "Gujarati - Aug - 2022",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2022/07/Gujarati-August-2022-new.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/07/Cover-Gujarati-August-2022.jpg",
+      "sort": 16
     }
   ]
 }
