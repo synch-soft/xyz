@@ -39,12 +39,6 @@
   ],
   "hindi_pdf_array": [
     {
-      "pdf_name": "Hindi - Oct - 2021",
-      "pdf_url": "https://www.iass.info/wp-content/uploads/2021/09/Hindi-October-2021.pdf",
-      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/09/Cover-Hindi-October-2021.jpg",
-      "sort": 6
-    },
-    {
       "pdf_name": "Hindi - Nov - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/10/Hindi-November-2021.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/10/Cover-Hindi-November-2021.jpg",
@@ -109,15 +103,15 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/08/Hindi-Septermber-2022.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/08/Cover-Hindi-Septermber-2022.jpg",
       "sort": 17
+    },
+    {
+      "pdf_name": "Hindi - Oct - 2022",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2022/09/Hindi-magazine-October-2022.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/09/Cover-Hindi-magazine-October-2022.jpg",
+      "sort": 18
     }
   ],
   "gujarati_pdf_array": [
-    {
-      "pdf_name": "Gujarati - Oct - 2021",
-      "pdf_url": "https://www.iass.info/wp-content/uploads/2021/09/Gujarati-October-2021.pdf",
-      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/09/Cover-Gujarati-October-2021.jpg",
-      "sort": 6
-    },
     {
       "pdf_name": "Gujarati - Nov - 2021",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/10/Gujarati-November-2021.pdf",
@@ -183,6 +177,12 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/08/Gujarati-Septermber-2022.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/08/Cover-Gujarati-Septermber-2022.jpg",
       "sort": 17
+    },
+    {
+      "pdf_name": "Gujarati - Oct - 2022",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2022/09/Gujarati-October-2022.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/09/cover-Gujarati-October-2022.jpg",
+      "sort": 18
     }
   ]
 }
