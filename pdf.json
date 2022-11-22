@@ -39,12 +39,6 @@
   ],
   "hindi_pdf_array": [
     {
-      "pdf_name": "Hindi - Dec - 2021",
-      "pdf_url": "https://www.iass.info/wp-content/uploads/2021/11/Hindi-December-2021.pdf",
-      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/11/cover-Hindi-December-2021.jpg",
-      "sort": 8
-    },
-    {
       "pdf_name": "Hindi – Jan – 2022",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/12/Hindi-January-2022.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/12/Cover-Hindi-January-2022.jpg",
@@ -109,15 +103,15 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/10/Hindi-November-2022.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/10/Cover-Hindi-November-2022.jpg",
       "sort": 19
+    },
+    {
+      "pdf_name": "Hindi - Dec - 2022",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2022/11/Hindi-December-2022.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/11/Cover-Hindi-December-2022.jpg",
+      "sort": 20
     }
   ],
   "gujarati_pdf_array": [
-    {
-      "pdf_name": "Gujarati - Dec - 2021",
-      "pdf_url": "https://www.iass.info/wp-content/uploads/2021/11/Gujarati-December-2021.pdf",
-      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/11/Cover-Gujarati-December-2021.jpg",
-      "sort": 8
-    },
     {
       "pdf_name": "Gujarati – Jan – 2022",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2021/12/Gujarati-January-2022.pdf",
@@ -183,6 +177,12 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/10/Gujarati-November-2022.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/10/Cover-Gujarati-November-2022.jpg",
       "sort": 19
+    },
+    {
+      "pdf_name": "Gujarati - Dec - 2022",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2022/11/Gujarati-Deecember-2022.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/11/Cover-Gujarati-December-2022.jpg",
+      "sort": 20
     }
   ]
 }
