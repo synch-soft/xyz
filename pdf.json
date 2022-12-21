@@ -39,12 +39,6 @@
   ],
   "hindi_pdf_array": [
     {
-      "pdf_name": "Hindi – Jan – 2022",
-      "pdf_url": "https://www.iass.info/wp-content/uploads/2021/12/Hindi-January-2022.pdf",
-      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/12/Cover-Hindi-January-2022.jpg",
-      "sort": 9
-    },
-    {
       "pdf_name": "Hindi – Feb – 2022",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/01/Hindi-February-2022.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/01/cover-Hindi-February-2022.jpg",
@@ -109,15 +103,15 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/11/Hindi-December-2022-updated.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/11/Cover-Hindi-December-2022-updated.jpg",
       "sort": 20
+    },
+    {
+      "pdf_name": "Hindi – Jan – 2023",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2022/12/Hindi-January-2023.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/12/Cover-Hindi-January-2023.jpg",
+      "sort": 21
     }
   ],
   "gujarati_pdf_array": [
-    {
-      "pdf_name": "Gujarati – Jan – 2022",
-      "pdf_url": "https://www.iass.info/wp-content/uploads/2021/12/Gujarati-January-2022.pdf",
-      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2021/12/Cover-Gujarati-January-2022.jpg",
-      "sort": 9
-    },
     {
       "pdf_name": "Gujarati – Feb – 2022",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/01/Gujarati-February-2022.pdf",
@@ -183,6 +177,12 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/11/Gujarati-Deecember-2022.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/11/Cover-Gujarati-December-2022.jpg",
       "sort": 20
+    },
+    {
+      "pdf_name": "Gujarati – Jan – 2023",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2022/12/Gujarati-January-2023.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/12/Covers-Gujarati-January-2023.jpg",
+      "sort": 21
     }
   ]
 }
