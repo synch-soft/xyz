@@ -1,12 +1,6 @@
 {
   "english_pdf_array": [
    {
-      "pdf_name": "English – Jan – Feb – 2022",
-      "pdf_url": "https://www.iass.info/wp-content/uploads/2022/01/English-Jan-Feb-2022.pdf",
-      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/01/Cover-English-Jan-Feb-2022.jpg",
-      "sort": 4
-    },
-    {
       "pdf_name": "English – Mar – Apr – 2022",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/02/English-March-April-2022-edited.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/02/cover-English-March-April-2022-edited.jpg",
@@ -35,15 +29,15 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/10/English-November-December-2022.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/10/Cover-English-November-December-2022.jpg",
       "sort": 9
+    },
+    {
+      "pdf_name": "English – Jan – Feb – 2023",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2023/01/English-January-February-2023.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2023/01/Cover-Jan-Feb-2023.jpg",
+      "sort": 10
     }
   ],
   "hindi_pdf_array": [
-    {
-      "pdf_name": "Hindi – Feb – 2022",
-      "pdf_url": "https://www.iass.info/wp-content/uploads/2022/01/Hindi-February-2022.pdf",
-      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/01/cover-Hindi-February-2022.jpg",
-      "sort": 10
-    },
     {
       "pdf_name": "Hindi - Mar - 2022",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/02/Hindi-March-2022.pdf",
@@ -109,15 +103,15 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/12/Hindi-January-2023.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/12/Cover-Hindi-January-2023.jpg",
       "sort": 21
+    },
+    {
+      "pdf_name": "Hindi – Feb – 2023",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2023/01/Hindi-February-2023.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2023/01/Cover-Hindi-February-2023-scaled.jpg",
+      "sort": 22
     }
   ],
   "gujarati_pdf_array": [
-    {
-      "pdf_name": "Gujarati – Feb – 2022",
-      "pdf_url": "https://www.iass.info/wp-content/uploads/2022/01/Gujarati-February-2022.pdf",
-      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/01/Cover-Gujarati-February-2022.jpg",
-      "sort": 10
-    },
     {
       "pdf_name": "Gujarati - Mar - 2022",
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/02/Gujarati-March-2022.pdf",
@@ -183,6 +177,12 @@
       "pdf_url": "https://www.iass.info/wp-content/uploads/2022/12/Gujarati-January-2023.pdf",
       "pdf_thumb": "https://www.iass.info/wp-content/uploads/2022/12/Covers-Gujarati-January-2023.jpg",
       "sort": 21
+    },
+    {
+      "pdf_name": "Gujarati – Feb – 2023",
+      "pdf_url": "https://www.iass.info/wp-content/uploads/2023/01/Gujarati-February-2023.pdf",
+      "pdf_thumb": "https://www.iass.info/wp-content/uploads/2023/01/Cover-Gujarati-February-2023.jpg",
+      "sort": 22
     }
   ]
 }
